@@ -1,0 +1,39 @@
+_repo: Sea-Warfare_17689
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: In addition to his works of fiction, Kipling was a knowledgeable military
+  historian. This 1916 publication combines both interests with poems, lyrical essays,
+  and factual reports. Highlights include Destroyers at Jutland, an account of the
+  great World War I naval battle, and Tales of the Trade, a harrowing account of submarine
+  warfare.
+gutenberg_issued: '2006-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17689'
+  lccn: '2007570771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Jutland, Battle of, 1916'
+- !lcsh 'World War, 1914-1918 -- Naval operations, British'
+- !lcsh 'Great Britain. Royal Navy -- History -- World War, 1914-1918'
+tableOfContents: The fringes of the fleet -- Tales of "the trade" -- Destroyers at
+  Jutland.
+title: Sea Warfare
+url: http://www.gutenberg.org/ebooks/17689
